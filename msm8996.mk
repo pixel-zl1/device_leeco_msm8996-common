@@ -192,7 +192,7 @@ PRODUCT_PACKAGES += \
 
 # Fingerprint sensor
 PRODUCT_PACKAGES += \
-    android.hardware.biometrics.fingerprint@2.0-service-custom \
+    android.hardware.biometrics.fingerprint@2.1-service-zl1 \
     fingerprintd \
     fingerprint.msm8996
 
