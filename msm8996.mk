@@ -191,6 +191,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.gnss@1.0-impl-qti \
     android.hardware.gnss@1.0-service-qti \
+    android.hardware.gnss@1.0-service \
+    android.hardware.gnss@1.0-impl:64 \
     libgnss \
     libgnsspps \
     libcurl
